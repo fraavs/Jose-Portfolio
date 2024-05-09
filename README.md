@@ -1,4 +1,4 @@
-### 🧬 Responsive Personal Portfolio Website using HTML CSS Javascript | Dark/Light Mode by UM-XAIR
+### 🧬 Simple Personal Portfolio Website using HTML CSS Javascript | Dark/Light Mode by UM-XAIR
 <div align="center">
 <img src="https://github.com/um-xair/html-css-js-personal-portfolio-3/blob/main/assets/main.jpg" align="center" style="width: 100%" />
 </div>  
